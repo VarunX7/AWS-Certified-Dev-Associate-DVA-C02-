@@ -11,3 +11,4 @@
 #### 7. [ASG](7_ASG.md)
 #### 8. [RDS](8_RDS.md)
   * **8.1. [Aurora](8.1_Aurora.md)**
+#### 9. [Elasticache](9_Elasticache.md)
