@@ -6,7 +6,7 @@ When using AWS the root account should never be used. Each physical user must be
 - Users : A physical person. Users can belong to multiple groups.
 - Groups : Can only contain users and not other groups.
 - Policies : JSON docs defining what actions are allowed or restricted. Assigned to a user or a group. 
-- IAM roles: Permissions assigned to AWS services to perform actions on other other services, eg.- access data from S3 bucket, etc.
+- Roles: Permissions assigned to AWS services to perform actions on other other services, eg.- access data from S3 bucket, etc.
 
 ## IAM Policy
 

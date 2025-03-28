@@ -1,4 +1,4 @@
-# EBS Volume
+# EBS : Elastic Block Store
 
 * An EC2 machine loses its root volume (main drive) when it is manually terminated.
 * Unexpected terminations might happen from time to time (AWS would email you)

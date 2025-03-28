@@ -1,4 +1,4 @@
-# EFS (Elastic File System)
+# EFS : Elastic File System
 
 - Managed NFS(Network File System) that can be mounted onto many EC2 instances in different AZ
 - Highly available, scalable, expensive(3x cost), pay per use - no capacity planning
