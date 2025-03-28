@@ -15,7 +15,7 @@ When using AWS the root account should never be used. Each physical user must be
 
 ### Policy structure.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 - Version : Policy language version. Always include "2012-10-17" 
 - Id: Identifier for the policy (optional)
