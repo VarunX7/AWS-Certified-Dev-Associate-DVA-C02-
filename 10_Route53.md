@@ -10,7 +10,7 @@ DNS translated the human friendly hostnames into IP addresses.
 - Zone files - Contains all DNS records to match hotnames to IP address
 - Name servers - Servers that actually resolve the DNS queries
 
-![alt text](image-6.png)
+![alt text](images/image-6.png)
 
 - TLD - Top Level Domain
 - SLD - Second Level Domain
@@ -179,6 +179,7 @@ A container for record that define how to route traffic to domain and its subdom
     * You create a CloudWatch metric and associate a CloudWatch Alarm, then create a health check that checks the alarm itself
 
 ### 3rd Party Registrar with AWS Route53
+
 * You buy or register your domain with a domain registrar
 * The domain registrar usually provides some DNS services to manage your DNS records
 * But you can use other DNS Service to manage your DNS records
