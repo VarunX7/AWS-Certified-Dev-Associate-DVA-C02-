@@ -12,3 +12,4 @@
 #### 8. [RDS](8_RDS.md)
   * **8.1. [Aurora](8.1_Aurora.md)**
 #### 9. [Elasticache](9_Elasticache.md)
+#### 10. [Route53](10_Route53.md)
