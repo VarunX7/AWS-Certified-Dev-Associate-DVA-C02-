@@ -14,3 +14,4 @@
 #### 9. [Elasticache](9_Elasticache.md)
 #### 10. [Route53](10_Route53.md)
 #### 11. [VPC](11_VPC.md)
+#### 12. [3-tier Architecture](12_Three_tier_Solution_Architecture.md)
