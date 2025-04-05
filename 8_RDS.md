@@ -1,6 +1,6 @@
 # RDS: Relational Database Service
 
-A managed DB service for DB use SQL a query
+A managed DB service for DBs that use SQL query
 
 It allows you to create databases in the cloud that are
 * Postgres

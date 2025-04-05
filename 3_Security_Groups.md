@@ -1,4 +1,5 @@
 # Security Groups
+Virtual firewalls that control inbound and outbound traffic for AWS resources.
 
 #### The fundamental of network security in AWS
 

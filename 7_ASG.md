@@ -1,6 +1,6 @@
 # ASG: Auto Scaling Group
 
-In real-life, the load on your websites and applications can change. You can create and get rid of servers very quickly
+In real-life, the load on your websites and applications can change. You can create and get rid of servers very quickly using ASG
 
 The goal of an Auto Scaling Group (ASG) is to:
 * Scale out (add EC2 Instances) to match an increased load
